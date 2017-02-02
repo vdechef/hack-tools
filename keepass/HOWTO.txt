@@ -1,0 +1,10 @@
+Source:
+	- https://blog.joshdawes.com/keepass-dictionary-attack/
+	- https://itintegrity.wordpress.com/2012/08/18/crunch-un-generateur-de-wordlist-simple-et-efficace/
+
+1- Download and setup libkeepass for python : https://github.com/phpwutz/libkeepass
+2- Download and make crunch : https://sourceforge.net/projects/crunch-wordlist
+3- Generate passwords dictionnary (see crunch.sh)
+4- Run keepass.py
+
+
